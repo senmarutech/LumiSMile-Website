@@ -9,9 +9,9 @@ The website emphasizes strong visual hierarchy, responsive design, and an improv
 
 ## 🚀 Tech Stack
 
-* React.js
-* Tailwind CSS
-* JavaScript
+- React.js
+- Tailwind CSS
+- JavaScript
 
 ## 🎯 Purpose
 
@@ -21,16 +21,16 @@ This project was created for learning and practice, especially to improve my ski
 
 This project was inspired and guided by a tutorial from YouTube:
 
-* OaliuCode
+- OaliuCode
 
 All credits for the original tutorial and guidance go to the creator. This project is a personal implementation and adaptation for learning purposes.
 
 ## ✨ Features
 
-* Modern and clean UI design
-* Responsive layout for multiple devices
-* Clear visual hierarchy
-* Interactive components
+- Modern and clean UI design
+- Responsive layout for multiple devices
+- Clear visual hierarchy
+- Interactive components
 
 ---
 
